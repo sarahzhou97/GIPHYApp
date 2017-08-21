@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GIPHYApp</string>
+    <string name="enter">Enter</string>
+    <string name ="search_title">Search</string>
+    <string name ="search_hint">Search GIFs here</string>
+    <string name ="back">Back</string>
+</resources>
